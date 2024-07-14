@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansh-Choudhary-1
-- 👀 I’m interested in Developing web site, Cyber Security analysis, Music(Specially Hip-Hop).
-- 🌱 I’m currently learning Java DSA.
+- 👀 I am a web and Blockchain developer.
+- 🌱 I have done DSA in JAVA programming language.
 - 📫 You may reach me through this email id: anshchoudhary5433@gmail.com
 
 <!---
