@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ansh-Choudhary-1
+- 🎓 BTech Student @ NSUT
 - 👀 I am a web and Blockchain developer.
 - 🌱 I have done DSA in JAVA programming language.
 - 📫 You may reach me through this email id: anshchoudhary5433@gmail.com
